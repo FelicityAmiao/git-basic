@@ -29,3 +29,12 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+
+#### Answer From ChenMiaochun
+
+The differences between these three command are as follows:
+
+* ```add```: put the files to stage in local
+* ```commit```: put the files to master in local
+* ```push```:  put the local master to the remote
+
