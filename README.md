@@ -34,7 +34,7 @@ Other useful commands to see what is going on the git repository:
 
 The differences between these three command are as follows:
 
-* ```add```: put the files to stage in local
-* ```commit```: put the files to master in local
-* ```push```:  put the local master to the remote
+* ```add```: put the files changes to stage in local
+* ```commit```: put the files changes from stage to master in local
+* ```push```:  put the files changes(those commits) of local master to the remote
 
